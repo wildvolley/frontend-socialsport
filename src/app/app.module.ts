@@ -18,4 +18,5 @@ import { AppComponent } from './app.component';
 export class AppModule { 
   //test modif
   //test modifs
+  //console.log
 }
